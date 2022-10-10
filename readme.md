@@ -2,10 +2,10 @@
 
 <br>
 Hi There ! <br>     
-<br> I'm <a href="https://shu6h4m.github.io/s/"> <b>SHUBHAM SHARMA </b> </a><img width="18px" src="https://github.com/shu6h4m/Resources/blob/main/verified.svg"/></h2>  
+<br> I'm  <b>ASHWANI BHADU</b> </a><img width="18px" src="https://github.com/shu6h4m/Resources/blob/main/verified.svg"/></h2>  
 
 <h4 align="center">
-:man_pilot: Executive Officer at <a href="https://www.cbic.gov.in/"> <b>CBIC</b> </a> by Profession :man_pilot: <br>
+
 👨‍💻 Blogger/Coder/Graphics Designer by Passion 👨‍💻 <br> 
 👨‍🎓 Pursuing Masters in Computer Applications from DU  👨‍🎓 </br>🚧 Walking through Struggling phase & Currently Working on: 🚧</h4>
  <h3 align="center"> <a href="https://www.shu6h4m.in"> Success Boosted </a>  | <a href="https://www.youtube.com/c/TechHorse9/about"> Tech Horse</a> as Blogger & Content Manager </h3>   <br />   
