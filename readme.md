@@ -10,5 +10,3 @@ Hi There ! <br>
 👨‍🎓 Completed Masters in Computer Applications   👨‍🎓 </br>🚧 Walking through Struggling phase</h4>
         
 
-       Thanks for your visit too !<br><br> ♥&nbsp;☻&nbsp;♥                                                       
-</p>                                                        
