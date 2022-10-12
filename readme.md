@@ -6,7 +6,7 @@ Hi There ! <br>
 
 <h4 align="center">
 
-👨‍💻 Blogger/Coder/Graphics Designer by Passion 👨‍💻 <br> 
+👨‍💻 Vlogger/Coder/Graphics Designer by Passion 👨‍💻 <br> 
 👨‍🎓 Completed Masters in Computer Applications   👨‍🎓 </br>🚧 Walking through Struggling phase</h4>
         
 
